@@ -1,2 +1,6 @@
 .DS_Store
 /.idea
+   test.csv
+   test-selected-columns.csv
+   train-2.csv
+   submission.csv
